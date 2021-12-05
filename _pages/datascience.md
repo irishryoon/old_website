@@ -1,10 +1,10 @@
 ---
 layout: page
-title: research
-permalink: /projects/
-description: A summary of my research projects.
+title: data science
+permalink: /datascience/
+description: A summary of some data science projects I've done in my personal time. 
 nav: true
-display_categories: [research]
+display_categories: [data science]
 horizontal: false
 ---
 <div class="projects">
