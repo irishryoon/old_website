@@ -69,7 +69,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  The best way to contact me is via email: [irishryoon@gmail.com](mailto:irishryoon@gmail.com)
+  The best way to contact me is via email: <a href="mailto:irishryoon@gmail.com">irishryoon@gmail.com</a>
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
