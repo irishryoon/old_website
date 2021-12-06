@@ -14,4 +14,4 @@ Code: <a href="https://github.com/irishryoon/musicians_recommendation">github</a
 Blog post: <a href="https://medium.com/@irishryoon/classical-musicians-recommender-22ee176daee8">medium</a>  
 For interactive exploration of the artist graph, click below
 
-[<center><img src="http://irisyoon.org/images/graph.png" height ="400"></center>](http://irisyoon.org/musicians_recommendation/graph_80000/graph_visualization/network/)
+[<center><img src="http://irisyoon.com/assets/img/graph.png" height ="400"></center>](http://irisyoon.com/musicians_recommendation/graph_80000/graph_visualization/network/)
