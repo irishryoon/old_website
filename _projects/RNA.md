@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RNA structure sampling & clustering
-description: a project with a background image
+title: RNA structure prediction
+description: sampling & clustering
 img: assets/img/SAMIII.png
 importance: 2
 category: research
