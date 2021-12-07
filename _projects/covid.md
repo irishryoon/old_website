@@ -2,7 +2,7 @@
 layout: page
 title: hospital bed shortage prediction
 description: Predicting hospital bed shortage due to COVID-19
-img: assets/img/app_image.png
+img: assets/img/covid.png
 importance: 4
 category: data science
 ---

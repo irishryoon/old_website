@@ -1,7 +1,8 @@
 ---
 layout: page
 title: fake news detector
-description: a project with a background image
+description: using BERT & transfer learning
+img: assets/img/wordcloud_real_news_titles.png
 importance: 3
 category: data science
 ---

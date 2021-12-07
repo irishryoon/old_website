@@ -2,7 +2,7 @@
 layout: page
 title: classical musicians recommender
 description: 
-img: assets/img/graph.png
+img: assets/img/smallgraph.png
 importance: 1
 category: data science
 ---
