@@ -47,9 +47,12 @@ So far, we have seen that persistence diagrams can indicate if a collection of i
 
 
 <figure>
-  <img src="https://irisyoon.com/assets/img/encoding.png" style="width:100%">
+  <img src="https://irisyoon.com/assets/img/encoding.png" style="width:80%">
   <figcaption>Neural encoding, stated as a problem in topology. Consider an experiment in which we present some stimulus while measuring neural activity. The persistence diagrams indicate that there are two circular features in the stimulus while there is only one circular feature in the neural activity. Which feature of the stimulus is represented by the neurons?</figcaption>
 </figure>
+
+![](https://irisyoon.com/assets/img/encoding.png)
+*Neural encoding, stated as a problem in topology. Consider an experiment in which we present some stimulus while measuring neural activity. The persistence diagrams indicate that there are two circular features in the stimulus while there is only one circular feature in the neural activity. Which feature of the stimulus is represented by the neurons?*
 
 To address the above questions, I developed a framework for comparing the persistence diagrams from the stimulus space and the neural activity called the analogous bars method.
 
