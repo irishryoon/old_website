@@ -1,6 +1,6 @@
 ---
 layout: page
-title: topology \& neuroscience
+title: topology & neuroscience
 description: A topological approach to neural encoding
 img: assets/img/neuro_img.png
 importance: 1
@@ -47,7 +47,7 @@ So far, we have seen that persistence diagrams can indicate if a collection of i
 
 
 <figure>
-  <img src="../assets/img/encoding.png" alt="my alt text"/>
+  <img src="https://github.com/irishryoon/irishryoon.github.io/blob/master/assets/img/encoding.png"/>
   <figcaption>Neural encoding, stated as a problem in topology. Consider an experiment in which we present some stimulus while measuring neural activity. The persistence diagrams indicate that there are two circular features in the stimulus while there is only one circular feature in the neural activity. Which feature of the stimulus is represented by the neurons?</figcaption>
 </figure>
 
