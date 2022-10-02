@@ -2,7 +2,7 @@
 layout: page
 title: Philadelphia Bail Fund
 description: 
-img: assets/img/philadelphia_map.png
+img: assets/img/philly.png
 importance: 4
 category: data science
 ---
