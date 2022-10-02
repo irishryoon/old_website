@@ -13,7 +13,7 @@ Consider a collection of images with different orientations shown in the followi
 
 
 <p align="center">
-  <img width="600" src="https://irisyoon.com/assets/img/neuro_cyclic_structures.png">
+  <img width="800" src="https://irisyoon.com/assets/img/neuro_cyclic_structures.png">
 </p>
 <div class="caption">
 	Figure 1. Circular structure of data. **A.** Collection of images. **B.** An arrangement of images based on the similarity of orientation reveals a circular structure. **C.** Collection of neural activities (spike trains). **D.** Consider two spike trains to be similar if the vertical lines are well-aligned after "sliding" one spike train by a small amount. An arrangement of neural activity based on spike train similarity reveals a circular structure. 
@@ -25,7 +25,7 @@ Similarly, consider a collection of neural activities (called spike trains) show
 Now, suppose there are many images and long spike trains that we cannot make the arrangements by hand. How would a computer recognize that these high-dimensional data contain cyclic structures? Let $$ P $$ denote the point cloud representing a system of interest, such as the collection of stimulus or neural activity. We calculate the similarity between every pair of elements in the system. We construct a representation of the system as we vary the similarity level by a sequence of simplicial complexes. The loops in this sequence are summarized by a persistence diagram, where the points far from the diagonal represent the large loops. See the following figure. 
 
 <p align="center">
-  <img width="600" src="https://irisyoon.com/assets/img/neural_PH.png">
+  <img width="800" src="https://irisyoon.com/assets/img/neural_PH.png">
 </p>
 <div class="caption">
 	Figure 2. Detecting circular structures from high dimensional data. Given the data (either images or spike trains), we first compute a matrix encoding pairwise similarity between all elements in the system. We then create the sequence of simplicial complexes that represents the connectivity of the system at various similarity values. Finally, we summarize the loops in the simplicial complexes using a persistence diagram. Points far from the diagonal represent significant structures.
