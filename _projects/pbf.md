@@ -20,6 +20,6 @@ For more info, please visit the following app: <a href="https://codeforphilly-pb
 Code: <a href="https://github.com/CodeForPhilly/pbf-analysis">github</a>  
 
 <p align="center">
-  <img width="500" src="https://irisyoon.com/assets/img/pbf_magistrate.png">
+  <img width="700" src="https://irisyoon.com/assets/img/pbf_magistrate.png">
 </p>
 
