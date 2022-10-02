@@ -3,7 +3,7 @@ layout: page
 title: Philadelphia Bail Fund
 description: 
 img: assets/img/philadelphia_map.png
-importance: 1
+importance: 4
 category: data science
 ---
 From 2020 to 2021, I volunteered as a data scientist for <a href="https://codeforphilly.org/">Code for Philly</a>, specifically the <a href="https://www.phillybailfund.org/">Philadelphia Bail Fund</a>. The volunteers and I wanted to understand how the bail system of Philadelphia was affecting the citizens. The following lists a few questions that we wanted to address.
