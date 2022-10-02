@@ -21,7 +21,7 @@ Departmental Good Teaching Award for Fall 2016, Spring 2015 (University of Penns
 
 <b> Pre-Freshman Program</b>
 (Summer 2017: Instructor, Summer 2016: Teaching Assistant)<br>
-I taught the engineering mathematics course of University of Pennsylvania's <a href="https://www.vpul.upenn.edu/eap/penncap/prefreshman">Pre-freshman program</a>. During an intensive four-week period, I prepared a group of incoming engineering freshman for the mathematics sequence that starts in the fall semester.
+I taught the engineering mathematics course of University of Pennsylvania's <a href="https://pennfirstplus.upenn.edu/pre-freshman-program/">Pre-freshman program</a>. During an intensive four-week period, I prepared a group of incoming engineering freshman for the mathematics sequence that starts in the fall semester.
 
 
 <b>Coursera</b>
