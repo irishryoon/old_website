@@ -3,7 +3,7 @@ layout: page
 title: Philadelphia Bail Fund
 description: 
 img: assets/img/philly.png
-importance: 4
+importance: 2
 category: data science
 ---
 From 2020 to 2021, I volunteered as a data scientist for <a href="https://codeforphilly.org/">Code for Philly</a>, specifically the <a href="https://www.phillybailfund.org/">Philadelphia Bail Fund</a>. The volunteers and I wanted to understand how the bail system of Philadelphia was affecting the citizens. The following lists a few questions that we wanted to address.
@@ -18,3 +18,8 @@ To that end, we used **topic modeling** on the criminal filing records to group 
 
 For more info, please visit the following app: <a href="https://codeforphilly-pbf-analysis-app-hzafyl.streamlitapp.com/">PBF app</a>  
 Code: <a href="https://github.com/CodeForPhilly/pbf-analysis">github</a>  
+
+<p align="center">
+  <img width="500" src="https://irisyoon.com/assets/img/pbf_magistrate.png">
+</p>
+
