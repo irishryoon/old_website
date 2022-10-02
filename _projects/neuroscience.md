@@ -2,7 +2,7 @@
 layout: page
 title: topology & neuroscience
 description: A topological approach to neural encoding
-img: assets/img/neuro_img.png
+img: assets/img/neuro_image.png
 importance: 1
 category: research
 ---
