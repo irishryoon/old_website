@@ -14,6 +14,7 @@ Departmental Good Teaching Award for Fall 2016, Spring 2015 (University of Penns
 ## Courses taught at Georgia Institute of Technology
 <b> Honors Multi-Variable Calculus MATH 2561</b>
 (Fall 2018)
+
 <b> Multi-Variable Calculus MATH 2551</b>
 (Fall 2018)
 
