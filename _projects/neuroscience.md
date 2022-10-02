@@ -1,15 +1,15 @@
 ---
 layout: page
-title: computational neuroscience
-description: A multi-system comparison framework for neural population encoding and propagation.
+title: topology \& neuroscience
+description: A topological approach to neural encoding
 img: assets/img/neuro_img.png
 importance: 1
 category: research
 ---
 
-What does it mean for there to be circular structure in brain signals? 
+What does it mean for there to be circular structures in neural activity? 
 
-Consider a collection of images with different orientations shown in the following figure A. We consider the red and dark orange images as having high similarity, whereas the red and green images have a low similarity. What would happen if we arranged the eight images in a way that respects this similarity? The eight images would be arranged in a circular fashion, as shown in Figure \ref{fig:cyclic_structures}B. 
+Consider a collection of images with different orientations shown in the following figure (Figure 1A). We consider the red and dark orange images as having high similarity, whereas the red and green images have a low similarity. What would happen if we arranged the eight images in a way that respects this similarity? The eight images would be arranged in a circular fashion, as shown in Figure 1B. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -17,13 +17,12 @@ Consider a collection of images with different orientations shown in the followi
     </div>
 </div>
 <div class="caption">
-	Circular structure of data. \textbf{A.} Collection of images. \textbf{B.} An arrangement of images based on the similarity of orientation reveals that there is a circular structure in the collection of images. \textbf{C. } Collection of neural activities (spike trains). \textbf{D. } Consider two spike trains to be similar if the vertical lines are well-aligned after ``sliding" one spike train by a small amount. An arrangement of neural activity based on spike train similarity reveals a circular structure among the neurons.   
+	Figure 1. Circular structure of data. **A.** Collection of images. **B.** An arrangement of images based on the similarity of orientation reveals a circular structure. **C.** Collection of neural activities (spike trains). **D.** Consider two spike trains to be similar if the vertical lines are well-aligned after "sliding" one spike train by a small amount. An arrangement of neural activity based on spike train similarity reveals a circular structure.   
 </div>
 
+Similarly, consider a collection of neural activities (called spike trains) shown in Figure 1C. Each row indicates the activity of a single neuron over some time period. The vertical line indicates the neuron's firing at a corresponding time. If we observe the neuron for, say $$ M $$ time intervals, then each spike train is a binary vector in $$ \mathbb{R}^M $$. Given two spike trains $$ s_1 $$ and $$ s_2 $$, let's measure similarities between two spike trains as the amount one needs to ``slide" $$ s_1 $$ to ``match" with $$ s_2 $$. Then, the red spike train is similar to the dark orange spike train, but it is quite dissimilar to the green spike train. Again, if we were to arrange the spike trains in a way that respects this similarity, we would arrange them in a cyclic manner (Figure 1D). 
 
-Similarly, consider a collection of neural activities (called spike trains) shown in figure C. Each row indicates the activity of a single neuron over some time period. The vertical line indicates the neuron's firing at a corresponding time. If we observe the neuron for, say $$ M $$ time intervals, then each spike train is a binary vector in $$ \mathbb{R}^M $$. Given two spike trains $$ s_1 $$ and $$ s_2 $$, let's measure similarities between two spike trains as the amount one needs to ``slide" $$ s_1 $$ to ``match" with $$ s_2 $$. Then, the red spike train is similar to the dark orange spike train, but it is quite dissimilar to the green spike train. Again, if we were to arrange the spike trains in a way that respects this similarity, we would arrange them in a cyclic manner (figure D). 
-
-Now, suppose there are many images and long spike trains that we cannot make the arrangements by hand. How would a computer recognize that these high-dimensional data contain cyclic structures? Let $$ P $$ denote the point cloud representing a system of interest, such as the collection of stimulus or neural activity. We calculate the similarity between every pair of elements in the system. We construct a representation of the system as we vary the similarity level by a sequence of simplicial complexes. The loops in this sequence are summarized by a persistence diagram, where the points far from the diagonal represent the large loops. See following figure. 
+Now, suppose there are many images and long spike trains that we cannot make the arrangements by hand. How would a computer recognize that these high-dimensional data contain cyclic structures? Let $$ P $$ denote the point cloud representing a system of interest, such as the collection of stimulus or neural activity. We calculate the similarity between every pair of elements in the system. We construct a representation of the system as we vary the similarity level by a sequence of simplicial complexes. The loops in this sequence are summarized by a persistence diagram, where the points far from the diagonal represent the large loops. See the following figure. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -45,6 +44,11 @@ So far, we have seen that persistence diagrams can indicate if a collection of i
 <div class="caption">
 	Neural encoding, stated as a problem in topology. Consider an experiment in which we present some stimulus while measuring neural activity. The persistence diagrams indicate that there are two circular features in the stimulus while there is only one circular feature in the neural activity. Which feature of the stimulus is represented by the neurons?
 </div>
+
+<figure>
+<img src="assets/img/encoding.png" style="width:100%">
+<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+</figure>
 
 To address the above questions, I developed a framework for comparing the persistence diagrams from the stimulus space and the neural activity called the analogous bars method.
 
