@@ -11,3 +11,5 @@ Music is one of the greatest joys in my life. I particularly enjoy playing chamb
 ../assets/music/ghost_1.mp3
 
 ../assets/music/ghost_2.mp3
+
+../assets/music/ghost_3.mp3
