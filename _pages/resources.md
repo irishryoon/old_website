@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-## Data Science for Social Good
+### Data Science for Social Good
 
 Are you looking for ways to create change in your community through data science? Check out the following.
 
@@ -22,7 +22,7 @@ A research-into-action network that applies math and data science for social jus
 
 [Statistics Without Borders](https://www.statisticswithoutborders.org/) A volunteer outreach group of the American Statistical Association that provides pro bono services in statistics and data science. 
 
-## Today's Data Science & Artificial Intelligence & Mathemtaics
+### Today's Data Science & Artificial Intelligence & Mathemtaics
 
 [Podcast: Not So Standard Deviations](https://nssdeviations.com/)
 
@@ -36,7 +36,7 @@ A research-into-action network that applies math and data science for social jus
 
 
 
-## Mathematics & Data Science for All
+### Mathematics & Data Science for All
 [Data Science for All - Women's Summit](https://www.correlation-one.com/data-science-for-all-women) A fellowship program designed to train for women interested in data science and analytics roles. I was a fellow in this program. 
 
 [Data Science for All - Empowerment](https://www.correlation-one.com/data-science-for-all-empowerment) A data analytics training and jobs program made available for free to qualifying students from underrepresented communities. If you identify as Black, Latinx, LGBTQ+, or any other underrepresented group, or if you are a military veteran, this is a great program. 
