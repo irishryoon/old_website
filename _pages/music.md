@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-Music is one of the greatest joys in my life. I particularly enjoy playing chamber music with friends. Here are a few recordings of my chamber music performances. I play piano. 
+Music is one of the greatest joys in my life. I particularly enjoy playing chamber music with friends. Here are a few recordings of my chamber music performances. I play the piano. 
 
 ### Beethoven Piano Trio in D major, Op.70 No.1 "Ghost"
 1st movement
