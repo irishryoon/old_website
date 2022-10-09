@@ -11,9 +11,12 @@ nav: true
 
 Departmental Good Teaching Award for Fall 2016, Spring 2015 (University of Pennsylvania)
 
+## Courses taught at University of Oxford
+<b> Theories of Deep Learning </b> (Fall 2022)
+
 ## Courses taught at Georgia Institute of Technology
 <b> Honors Multi-Variable Calculus MATH 2561</b>
-(Fall 2018)
+(Spring 2019)
 
 <b> Multi-Variable Calculus MATH 2551</b>
 (Fall 2018)
