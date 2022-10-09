@@ -21,6 +21,16 @@ Music is one of the greatest joys in my life. I particularly enjoy playing chamb
 
 ../assets/music/ghost_3.mp3
 
+### Debussy Piano Trio in G major, L. 5
+1st movement
+
+../assets/music/debussy_1.mp3
+
+3rd movement
+
+../assets/music/debussy_3.mp3
+
+
 ### Schubert Piano Quintet in A major, D. 667, "Trout"
 
 1st movement
