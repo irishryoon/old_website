@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Multiscale feature detection via TDA
+title: Sheaf theory for data science
 description: Applications of persistent sheaf cohomology.
 img: assets/img/PointCloudExample.png
-importance: 3
+importance: 4
 category: research
 ---
 
