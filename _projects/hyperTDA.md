@@ -1,8 +1,8 @@
 ---
 layout: page
 title: hyperTDA
-description: Topology \& Hypergraphs
-img: assets/img/PH_hypergraph.png
+description: Topology & Hypergraphs
+img: assets/img/PH_hypergraph2.png
 importance: 2
 category: research
 ---
