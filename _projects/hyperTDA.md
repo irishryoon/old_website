@@ -1,7 +1,7 @@
 ---
 layout: page
-title: hyperTDA
-description: Topology & Hypergraphs
+title: Topology & Hypergraphs
+description: Understanding topology through hypergraphs
 img: assets/img/PH_hypergraph2.png
 importance: 2
 category: research
