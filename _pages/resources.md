@@ -46,3 +46,5 @@ A research-into-action network that applies math and data science for social jus
 [Association for Women in Mathematics](https://awm-math.org/)
 
 [Spectra](http://lgbtmath.org/)
+
+[Inclusion/Exclusion blog](https://inclusionexclusion.org/)
