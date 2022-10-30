@@ -46,6 +46,10 @@ To address the above questions, I developed a framework for comparing persistenc
 
 The methods paper has been accepted in the Journal of Applied and Computational Topology, conditional on minor revisions. A follow-up paper implementing the method on simulated and experimental neuroscience datasets is under preparation.
 
+Preprint: <a href="https://arxiv.org/abs/2201.05190">Persistent Extension and Analogous Bars: Data-Induced Relations Between Persistence Barcodes</a>.
+
+Code: <a href="https://github.com/UDATG/analogous_bars">github: analogous bars</a>
+
 *Joint work with <a href="http://www.chadgiusti.com/">Chad Giusti</a> (U. Delaware) and <a href="https://www.math.upenn.edu/~ghrist/">Robert Ghrist</a> (U. Penn).*
 
 
