@@ -3,7 +3,7 @@ layout: page
 title: RNA structure prediction
 description: sampling & clustering
 img: assets/img/SAMIII.png
-importance: 2
+importance: 3
 category: research
 ---
 A RiboNucleic Acid (RNA) can form complex structure through intra-molecular base-pairing. Some classes of RNAs can regulate biological functions by changing its conformations. An example is illustrated below.   
