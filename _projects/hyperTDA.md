@@ -1,7 +1,7 @@
 ---
 layout: page
-title: topology & neuroscience
-description: A topological approach to neural encoding
+title: hyperTDA
+description: Topology \& Hypergraphs
 img: assets/img/PH_hypergraph.png
 importance: 2
 category: research
