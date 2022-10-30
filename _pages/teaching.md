@@ -7,7 +7,9 @@ nav: true
 ---
 
 ## Teaching Awards
-<a href="https://www.college.upenn.edu/teaching-awards">School of Arts and Sciences Dean’s Award for Distinguished Teaching by Graduate Students</a> for the 2016-2017 academic year (University of Pennsylvania)
+<a href="https://www.college.upenn.edu/teaching-awards">School of Arts and Sciences Dean’s Award for Distinguished Teaching by Graduate Students</a> for the 2016-2017 academic year (University of Pennsylvania). Awarded to 10 graduate students from all departments in the School of Arts and Sciences.
+
+
 
 Departmental Good Teaching Award for Fall 2016, Spring 2015 (University of Pennsylvania)
 
