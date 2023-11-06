@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://irishryoon.github.io/" />
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Iris  Yoon
 
 
-  | Page not found
+  | hospital bed shortage prediction
 
 </title>
 <meta name="description" content="Mathematician working in applied topology.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>♾️</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="https://irishryoon.github.io/404.html">
+<link rel="canonical" href="https://irishryoon.github.io/projects/covid/">
 
 
 <!-- Dark Mode -->
@@ -193,12 +193,36 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">hospital bed shortage prediction</h1>
+    <p class="post-description">Predicting hospital bed shortage due to COVID-19</p>
   </header>
 
   <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://irishryoon.github.io/">here</a>.</p>
+    <p>Check out this <a href="https://covid19-hospital.herokuapp.com/" target="_blank" rel="noopener noreferrer">COVID-19 hospital app</a> I built!</p>
+
+<p>The app predicts the dates during which hospitals in the US are expected to experience bed shortage due to COVID-19.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/app_image-480x206.png"></source>
+    
+    <source media="(max-width: 800px)" srcset="/assets/resized/app_image-800x343.png"></source>
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/app_image.png" title="example image">
+</picture>
+
+    </div>
+</div>
+
+<p>The app uses COVID-19 data from the <a href="https://github.com/CSSEGISandData/COVID-19" target="_blank" rel="noopener noreferrer">Johns Hopkins CSSE repository</a> to fit a SIR model. It also uses state-level demographic information and hospital capacity to predict the number of COVID-19 patients that will require hospital and ICU beds.</p>
+
+<p>For details on the model, please read this <a href="https://medium.com/@irishryoon/predicting-hospital-bed-shortage-in-the-us-due-to-covid-19-2d860ecdaba2" target="_blank" rel="noopener noreferrer">medium post.</a></p>
+
+<p>You can play around with the <a href="https://gist.github.com/irishryoon/fe2c769ccca1028dbda2e4a5f060fb7e" target="_blank" rel="noopener noreferrer"> code</a> on Google Colab.</p>
+
+<p><em>Note: The app uses data that was available on March 26, 2020</em></p>
 
   </article>
 

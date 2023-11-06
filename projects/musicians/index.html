@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://irishryoon.github.io/" />
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Iris  Yoon
 
 
-  | Page not found
+  | classical musicians recommender
 
 </title>
 <meta name="description" content="Mathematician working in applied topology.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>♾️</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="https://irishryoon.github.io/404.html">
+<link rel="canonical" href="https://irishryoon.github.io/projects/musicians/">
 
 
 <!-- Dark Mode -->
@@ -193,12 +193,19 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">classical musicians recommender</h1>
+    <p class="post-description"></p>
   </header>
 
   <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://irishryoon.github.io/">here</a>.</p>
+    <p>I built a recommendation system for classical music performers. The recommender is based on the idea that musicians with frequent collaborations likely have similar performance styles. It first creates a graph of classical musicians and their collaborations and uses node2vec embeddings to find vector representations of the musicians. Given a list of users’ favorite artists, the recommender uses similarity of the vector representations to recommend artists that a user may enjoy.</p>
+
+<p>Checkout the app at <a href="https://musicians-rec.herokuapp.com" target="_blank" rel="noopener noreferrer">https://musicians-rec.herokuapp.com</a><br>
+Code: <a href="https://github.com/irishryoon/musicians_recommendation" target="_blank" rel="noopener noreferrer">github</a><br>
+Blog post: <a href="https://medium.com/@irishryoon/classical-musicians-recommender-22ee176daee8" target="_blank" rel="noopener noreferrer">medium</a><br>
+For interactive exploration of the artist graph, click below</p>
+
+<p><a href="http://irisyoon.com/musicians_recommendation/graph_80000/graph_visualization/network/" target="_blank" rel="noopener noreferrer"><center><img src="http://irisyoon.com/assets/img/graph.png" height="400"></center></a></p>
 
   </article>
 

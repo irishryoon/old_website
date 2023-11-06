@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://irishryoon.github.io/" />
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Iris  Yoon
 
 
-  | Page not found
+  | RNA structure prediction
 
 </title>
 <meta name="description" content="Mathematician working in applied topology.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>♾️</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="https://irishryoon.github.io/404.html">
+<link rel="canonical" href="https://irishryoon.github.io/projects/RNA/">
 
 
 <!-- Dark Mode -->
@@ -193,12 +193,42 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">RNA structure prediction</h1>
+    <p class="post-description">sampling &amp; clustering</p>
   </header>
 
   <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://irishryoon.github.io/">here</a>.</p>
+    <p>A RiboNucleic Acid (RNA) can form complex structure through intra-molecular base-pairing. Some classes of RNAs can regulate biological functions by changing its conformations. An example is illustrated below.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/SAMIII_conformation1-480x258.png"></source>
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/SAMIII_conformation1.png" title="example image">
+</picture>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <picture>
+    
+    <source media="(max-width: 480px)" srcset="/assets/resized/SAMIII_conformation2-480x267.png"></source>
+    
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/SAMIII_conformation2.png" title="example image">
+</picture>
+
+    </div>
+</div>
+<p><em><span style="font-size:0.8em">The SAM-III riboswitch folds into two distinct secondary structures. It regulates gene expression by exposing or sequestering the SD sequence, which controls translation.</span></em></p>
+
+<p>Identifying multiple structures of a RNA can bring therapeutic advancements for RNA viruses. A popular approach is to sample low-energy structures from the nearest neighbor thermodyanmic model. Most algorithms follow the general flow of <b>sampling</b>, <b>clustering</b>, and reporting <b>cluster representatives</b>.</p>
+
+<p>I worked on improving the <b>clustering</b> aspect of an RNA structure prediction algorithm called <a href="https://github.com/gtDMMB/RNAStructProfiling" target="_blank" rel="noopener noreferrer">profiling</a>. The current method resulted in too many clusters with negligible biological difference. I proposed algorithmic ways to identify clusters that should be merged based on structural similarity. The enhanced version of profiling is under development by Georgia Tech <a href="https://github.com/gtDMMB" target="_blank" rel="noopener noreferrer">Discrete Mathematics and Molecular Biology</a> group.</p>
+
+<p>I also examined the prospect of using current methods to identify new multimodal RNAs. I found that there is a class of RNAs (kinetic riboswitches) that is difficult to detect from current sampling methods. I proposed a simple co-transcription simulation method to identify multimodality of such RNAs. The results have been published in this <a href="https://www.researchgate.net/publication/337314911_Towards_an_understanding_of_RNA_structural_modalities_a_riboswitch_case_study" target="_blank" rel="noopener noreferrer">paper.</a></p>
+
+<p><em>Georgia Tech (2018-2019), joint work with <a href="https://sites.google.com/site/christineheitsch/" target="_blank" rel="noopener noreferrer">Christine Heitsch</a> (Georgia Tech) and <a href="https://ribosnitch.bio.unc.edu/" target="_blank" rel="noopener noreferrer">Alain Laederach</a> (UNC).</em></p>
 
   </article>
 
